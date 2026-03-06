@@ -1,4 +1,3 @@
-
 # 📘 Assignment: Hangman Game Challenge
 
 ## 🎯 Objective
@@ -33,4 +32,4 @@ Sorry, 'e' is not in the word. Attempts remaining: 5
 ...
 ```
 
-> 💡 Once the basic requirements are met, feel free to extend the word list or add extra features (e.g. hints, score tracking, graphical display).
+> 💡 Once the core requirements are met, students are encouraged to extend the implementation by adding optional features such as hints, score tracking, or a simple graphical display.
