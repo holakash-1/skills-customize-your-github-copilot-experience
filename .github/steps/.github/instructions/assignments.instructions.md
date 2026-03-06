@@ -25,10 +25,3 @@ The section headers should reflect the structure in the template, including the 
    - Provide example input/output in code blocks if helpful.
 
 Do not include extra sections unless explicitly specified.
-
-## 3. Educational Standards
-
-When generating content for assignment files in this project:
-
-- **Learning-focused**: All content should be designed with clear learning objectives and appropriate difficulty levels
-- **Student-friendly**: Use clear, encouraging language that motivates students
